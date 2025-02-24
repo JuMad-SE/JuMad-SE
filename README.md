@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jumadridc@unal.edu.co**
 
-- ⚡ Fun fact **FAILING CONSTANTLY, OR SHOULD I SAY, CONSTANTLY LEARNING**
+- **FAILING CONSTANTLY, OR SHOULD I SAY, CONSTANTLY LEARNING**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
