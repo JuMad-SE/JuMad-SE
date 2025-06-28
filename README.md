@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumad-se&label=Profile%20views&color=ad2b14&style=plastic" alt="jumad-se" /> </p>
 
-- 🔭 I’m currently working on [ciclomart](https://github.com/w1sec0d/CicloMart_front)
+- 🔭 I’m currently working on [CourseClash](https://github.com/w1sec0d/CourseClash)
 
 - 📫 How to reach me **jumadridc@unal.edu.co**
 
